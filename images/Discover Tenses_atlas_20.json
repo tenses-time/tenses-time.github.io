@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"CachedBmp_14":
+{
+	"frame": {"x":0,"y":432,"w":1240,"h":430},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1240,"h":430},
+	"sourceSize": {"w":1240,"h":430}
+},
+"CachedBmp_180":
+{
+	"frame": {"x":0,"y":0,"w":1240,"h":430},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1240,"h":430},
+	"sourceSize": {"w":1240,"h":430}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.5.1.31044",
+	"image": "Discover Tenses_atlas_20.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}
